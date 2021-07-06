@@ -2,7 +2,7 @@
 
 Cluster of LndHub Admin enabled LND's ...
 
-- Create Channel 
+- Create Channels 
 - Balance Channels
 - Shadow Channels
 - Relay Channels
