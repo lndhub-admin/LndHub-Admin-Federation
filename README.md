@@ -1,6 +1,6 @@
 # LndHub-Admin-Federation
 
-Cluster of LndHub Admin enabled LND's ...
+Decentralized Cluster of LndHub Admin enabled LND's ...
 
 - Create Channels 
 - Balance Channels
