@@ -1,7 +1,9 @@
 # LndHub-Admin-Federation
 
-Cluster of LndHub's channel creation and channel balancing ...
+Cluster of LndHub Admin enabled LND's ...
 
+- Create Channel 
+- Balance Channels
 - Shadow Channels
 - Relay Channels
 
