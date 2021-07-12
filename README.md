@@ -3,10 +3,13 @@
 Decentralized Cluster of LndHub Admin enabled LND's ...
 
 - Create Channels 
+- Conveyor Channels
 - Balance Channels
-- Shadow Channels
-- Relay Channels
 - Information Channels
-- Consolidated Graph
+- Relay Channels
+- Shadow Channels
+
+
+Consolidated Graph service lookups
 
 ### _Federated Bitcoin Tribes_.
