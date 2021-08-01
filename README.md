@@ -17,3 +17,6 @@ Consolidated Graph Service Lookups
 
 ---
 ### _Federated Bitcoin Tribes_.
+---
+
+In closed alpha
